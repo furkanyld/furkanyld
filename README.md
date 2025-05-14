@@ -17,14 +17,19 @@ Currently working on my graduation project: a handwriting OCR system using fine-
 > Android app for skill/help exchange with point-based system  
 > Tech: Java, Volley, RecyclerView, Dark UI
 
-### 🔷 [TODO-APP](https://github.com/furkanyld/TO-DO-APP)
-> GoLang API 
-> Gin-Gonic Framework
+### 🔷 [Notes_Mobile_App](https://github.com/furkanyld/Notes_Mobile_App)  
+> A note-taking application with a custom Go backend API and Android Java frontend.  
+> Users can create, update, and delete notes. RESTful API handles data storage and sync.  
+> Tech: Go (Gin), Java (Android), REST API
 
 ### 🔷 [ExamEvaluatorAI](https://github.com/melihdemir0/ExamEvaluatorAI)
 > Our graduation project: A handwriting OCR pipeline for exam evaluation using fine-tuned Tesseract.  
 > Trained on handwritten data for custom recognition  
 > Tech: Python, Tesseract
+
+### 🔷 [TODO-APP](https://github.com/furkanyld/TO-DO-APP)
+> GoLang API 
+> Gin-Gonic Framework
 
 ---
 
