@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Furkan Yıldız
 
-I'm a software developer focused on mobile and backend development.  
+I'm a computer engineering student passionate about software development.  
 I enjoy building meaningful projects that combine technology and social benefit.
 Currently working on my graduation project: a handwriting OCR system using fine-tuned Tesseract for exam papers.
 
