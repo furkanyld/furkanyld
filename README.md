@@ -36,9 +36,11 @@ Currently working on my graduation project: a handwriting OCR system using fine-
 ## 🧰 Technologies I Use
 - C#
 - ASP.NET Core
+- Entity Framework Core
 - Java
 - Spring Boot
 - Go
+- Gin-Gonic Framework
 - React
 - Python
 - RESTful APIs
