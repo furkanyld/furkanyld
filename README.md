@@ -34,12 +34,16 @@ Currently working on my graduation project: a handwriting OCR system using fine-
 ---
 
 ## 🧰 Technologies I Use
+- C#
 - ASP.NET Core
+- Java
+- Spring Boot
 - Go
 - React
 - Python
 - RESTful APIs
 - PostgreSQL
+- MsSql
 - Git & GitHub
 - Android (Java)
 
