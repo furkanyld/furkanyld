@@ -7,6 +7,15 @@ Currently working on my graduation project: a handwriting OCR system using fine-
 ---
 
 ## 💼 Projects
+### 🔷 [Kedostt-Backend](https://github.com/furkanyld/Kedostt-Backend)
+> RESTful API built with Java Spring Boot for a non-profit pet adoption and donation platform.
+> Includes JWT authentication, role-based access control, PostgreSQL integration, and admin panel functionalities.
+> Donation and adoption modules are accessible without login to improve user experience.
+
+### 🔷 [Kedostt-Frontend](https://github.com/furkanyld/Kedostt-Frontend)
+> React.js frontend for Kedostt platform, designed for ease of use and accessibility.
+> Users can view adoptable animals, make donations, and submit adoption applications.
+> Admins manage animal data and adoption requests through a dedicated dashboard.
 
 ### 🔷 [Concycle-Backend](https://github.com/furkanyld/Concycle-Backend)
 > ASP.NET Core API with PostgreSQL integration
