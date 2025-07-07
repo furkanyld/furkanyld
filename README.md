@@ -48,7 +48,7 @@ Currently working on my graduation project: a handwriting OCR system using fine-
 ## 🧰 Technologies I Use
 **Languages & Frameworks**
 - Java, C#, C++, Go, Python
-- Spring Boot, ASP.NET Core, Gin-Gonic
+- Spring Boot, .NET Core, Gin-Gonic
 - JavaScript, TypeScript
 - React, Angular
 - HTML, CSS
