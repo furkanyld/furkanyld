@@ -46,21 +46,22 @@ Currently working on my graduation project: a handwriting OCR system using fine-
 ---
 
 ## 🧰 Technologies I Use
-**Languages & Frameworks**
+
+**🧑‍💻 Languages & Frameworks**
 - Java, C#, C++, Go, Python
 - Spring Boot, .NET Core, Gin-Gonic
 - JavaScript, TypeScript
 - React, Angular
 - HTML, CSS
 
-**Mobile Development**
+**📱 Mobile Development**
 - Android Development (Java)
 
-**Databases**
+**🗄️ Databases**
 - PostgreSQL
 - Microsoft SQL Server
 
-**Tools & Platforms**
+**⚙️ Tools & Platforms**
 - Git & GitHub
 - Render, Railway, Vercel
 - Postman, Swagger (OpenAPI)
@@ -68,7 +69,7 @@ Currently working on my graduation project: a handwriting OCR system using fine-
 - JUnit/Mockito
 - Docker
 - 
-**ORM & APIs**
+**🧩 ORM & APIs**
 - Entity Framework Core
 - RESTful APIs
   
