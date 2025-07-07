@@ -46,25 +46,32 @@ Currently working on my graduation project: a handwriting OCR system using fine-
 ---
 
 ## 🧰 Technologies I Use
-- C#
-- ASP.NET Core
-- Entity Framework Core
-- Java
-- Spring Boot
-- Go
-- Gin-Gonic Framework
-- React
-- Angular
-- JavaScript
-- TypeScript
-- Html/Css
-- Python
-- RESTful APIs
-- PostgreSQL
-- MsSql
-- Git & GitHub
-- Android (Java)
+**Languages & Frameworks**
+- Java, C#, C++, Go, Python
+- Spring Boot, ASP.NET Core, Gin-Gonic
+- JavaScript, TypeScript
+- React, Angular
+- HTML, CSS
 
+**Mobile Development**
+- Android Development (Java)
+
+**Databases**
+- PostgreSQL
+- Microsoft SQL Server
+
+**Tools & Platforms**
+- Git & GitHub
+- Render, Railway, Vercel
+- Postman, Swagger (OpenAPI)
+- JWT Authentication
+- JUnit/Mockito
+- Docker
+- 
+**ORM & APIs**
+- Entity Framework Core
+- RESTful APIs
+  
 ---
 
 ## 📫 Contact
