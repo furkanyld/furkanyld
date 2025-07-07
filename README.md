@@ -22,6 +22,9 @@ Currently working on my graduation project: a handwriting OCR system using fine-
 > Entity Framework Core
 > Clean layered architecture (API, Business, Data, Core)
 
+### 🔷 [Concycle-Frontend](https://github.com/furkanyld/Concycle-Frontend)
+> Angular.ts frontend for Concycle platform.
+
 ### 🔷 [Concycle-Mobile](https://github.com/furkanyld/Concycle-Mobile)
 > Android app for skill/help exchange with point-based system  
 > Tech: Java, Volley, RecyclerView, Dark UI
