@@ -2,7 +2,6 @@
 
 I'm a computer engineering student passionate about software development.  
 I enjoy building meaningful projects that combine technology and social benefit.
-Currently working on my graduation project: a handwriting OCR system using fine-tuned Tesseract for exam papers.
 
 ---
 
