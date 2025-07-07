@@ -54,6 +54,10 @@ Currently working on my graduation project: a handwriting OCR system using fine-
 - Go
 - Gin-Gonic Framework
 - React
+- Angular
+- JavaScript
+- TypeScript
+- Html/Css
 - Python
 - RESTful APIs
 - PostgreSQL
