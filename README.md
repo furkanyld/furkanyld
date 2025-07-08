@@ -67,7 +67,7 @@ I enjoy building meaningful projects that combine technology and social benefit.
 - JWT Authentication
 - JUnit/Mockito
 - Docker
-- 
+  
 **🧩 ORM & APIs**
 - Entity Framework Core
 - RESTful APIs
