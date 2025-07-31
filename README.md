@@ -59,6 +59,7 @@ I enjoy building meaningful projects that combine technology and social benefit.
 **🗄️ Databases**
 - PostgreSQL
 - Microsoft SQL Server
+- Oracle
 
 **⚙️ Tools & Platforms**
 - Git & GitHub
